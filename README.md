@@ -1,1 +1,1 @@
-# AI_integration
+# AI Integration Project
